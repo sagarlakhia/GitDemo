@@ -9,7 +9,7 @@
  * There should not be any Hello World text
  
 ### Branching
- * *Master* is the main branch, that gets used only to build Release and Signed Apk.
+ * *master* is the main branch, that gets used only to build Release and Signed Apk.
  * *develop* is the branch where all the developers will merge their code changes from respective feature and bug branches
  * *feature/add-text* should be the naming convention used for feature branches.
  * *bugfix/slow-animation-text* should be the naming convention used for bug fix branches.
